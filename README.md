@@ -9,7 +9,7 @@ The aim of this project was to analyze California crime and law enforcement data
 - Visualize crime categories and spatial patterns across counties.
 - Calculate descriptive statistics (mean, variance, skewness, kurtosis).
 - Analyze correlations among key attributes.
-- Apply Naive Bayes Classification to evaluate predictive performance.
+- Apply **Naive Bayes classification** to evaluate predictive performance.
 ### Results
 - Discovered that crime distributions are **skewed**, not normally distributed.
 - Identified **outliers** in population and law enforcement numbers, which represent real major cities and were kept.
